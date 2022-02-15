@@ -1,0 +1,265 @@
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 15
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 15
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 15
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 10
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 12
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 2
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 13
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 16
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -12
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 12
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 10
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 11
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -9
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 5
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 14
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 16
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 1
+05: add x 13
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 6
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -14
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 15
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -11
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 3
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -2
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 12
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -16
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 10
+16: mul y x
+17: add z y
+
+00: inp w
+01: mul x 0
+02: add x z
+03: mod x 26
+04: div z 26
+05: add x -14
+06: eql x w
+07: eql x 0
+08: mul y 0
+09: add y 25
+10: mul y x
+11: add y 1
+12: mul z y
+13: mul y 0
+14: add y w
+15: add y 13
+16: mul y x
+17: add z y

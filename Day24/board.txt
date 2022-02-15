@@ -1,0 +1,45 @@
+ABCDEFGHIJKLMN
+
+# First block.
+w: A
+x: !(15 == A)
+y: 0        #(25 * !(15 == A)) + 1
+z: 0
+
+inp w       w = A;
+mul x 0     x = 0;
+add x z     x = z;
+mod x 26    x = x % 26;
+div z 1     z = z / 1;
+add x 15    x = x + 15;
+eql x w     x = (x == w);
+eql x 0     x = (x == 0);
+mul y 0     y = 0;
+add y 25    y = 25;
+mul y x     y = y * x;
+add y 1     y = y + 1;
+mul z y     z = z * y;
+mul y 0     y = 0;
+add y w     y = w;
+add y 15    y = y + 15;
+mul y x     y = y * x;
+add z y     z = y + z;
+
+z = 0;
+
+w = input();
+
+x = !(((z % 26) + 15) == A)
+
+if ((z % 26) + offset[i] == input[i])
+{
+    z = z / divisor[i];
+}
+else
+{
+    z = 26 * z + input[i] + increment[i];
+}
+
+divisors = [1, 1, 1, 1, 26, 1, 26, 1, 1, 26, 26, 26, 26, 26]
+offset = [15, 15, 12, 13, -12, 10, -9, 14, 13, -14, -11, -2, -16, -14]
+increment = [15, 10, 2, 16, 12, 11, 5, 16, 6, 15, 3, 12, 10, 13]
